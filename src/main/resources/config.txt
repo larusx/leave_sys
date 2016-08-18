@@ -1,11 +1,11 @@
 # 地址信息
-DataBaseAddr=localhost
+DataBaseAddr=10.10.26.58
 DataBasePort=3306
 
 # 连接信息
-DataBaseName=yxl_leave
-DataBaseUser=root
-DataBasePassword=root
+DataBaseName=zaF92ER3rLX5IqJP
+DataBaseUser=uB2CFtkVx65bsEAN
+DataBasePassword=paeTZJGWUsQDEB92Y
 
 # 开发模式
 devModel=false
